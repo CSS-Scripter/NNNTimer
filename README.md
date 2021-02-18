@@ -1,3 +1,2 @@
 # No Nut November Timer
-
-(Timer)[https://nnntimer.com]
+Visit the timer: [NNNTimer.com](https://nnntimer.com)
